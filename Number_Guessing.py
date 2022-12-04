@@ -27,9 +27,9 @@ while True:
         print("Try again!")
         score += 1
         if user < ran:
-            print("Enter number having range more")
+            print("Enter number having range more.")
         else:
-            print("Enter number having range less ")
+            print("Enter number having range less. ")
         continue
 
 
